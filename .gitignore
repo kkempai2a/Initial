@@ -1,0 +1,5 @@
+Pods
+.xcodeproj/ !*.xcodeproj/project.pbxproj
+*.xcworkspace
+.sass-cache
+.DS_Store
